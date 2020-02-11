@@ -10,7 +10,6 @@ quibusdam fuga, aperiam quas, obcaecati corrupti iste?
 
 
 * `_Italic_` or `*Italic*`: _Italic_
-* `__Bold__` or `**Bold**`: __Bold__
 * `*Is __Combined__*`: *Is __Combined__*
 
 * `_Italic_` or `*Italic*`: _Italidc_
